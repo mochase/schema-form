@@ -1,4 +1,6 @@
 <script>
+/**@description 项目中的一段实践代码 */
+
 export default {
   name: 'schema-form',
   props: {
